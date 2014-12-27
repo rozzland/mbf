@@ -5,12 +5,9 @@
 
 		<!-- Basic -->
 		<meta charset="utf-8">
-		<title>Crossway - Startup Landing Page Template</title>
-		<meta name="author" content="DSA79">
-		<meta name="norobots" content="noindex,nofollow">
-		<meta name="keywords" content="responsive, html5 template, one page, landing, startup, business, company, corporate, creative">
-		<meta name="description" content="Crossway - Startup Landing Page Template">		
-		   
+		<title>Thanks for contacting Movers Best Friend</title>
+		<meta name="author" content="MBF">
+		<meta name="norobots" content="noindex,nofollow">		   
 		<!-- Libs CSS -->
 		<link href="css/style.css" rel="stylesheet" type="text/css" />
 		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
